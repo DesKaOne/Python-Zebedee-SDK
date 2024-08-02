@@ -1,1 +1,1 @@
-from .api import api as Client
+from .client import Client
